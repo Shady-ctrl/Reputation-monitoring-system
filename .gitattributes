@@ -1,3 +1,0 @@
-model/* filter=lfs diff=lfs merge=lfs -text
-roberta_model/* filter=lfs diff=lfs merge=lfs -text
-data/Reviews.csv filter=lfs diff=lfs merge=lfs -text
